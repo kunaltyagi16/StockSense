@@ -1,0 +1,1 @@
+This project is a Stock Price Prediction Web App built using LSTM (Long Short-Term Memory) neural networks. It uses historical stock data fetched from Yahoo Finance, predicts future prices, and visually compares the predictions with actual stock prices on an interactive Streamlit dashboard.
